@@ -120,9 +120,9 @@
     "semantic_hash": "50b93237f74874de59fc7b4067337043"
   },
   "copy-graphify.sh": {
-    "mtime": 1781188055.7393222,
-    "ast_hash": "9f11d31e106dce3c8d9247a3b6ca7e28",
-    "semantic_hash": "9f11d31e106dce3c8d9247a3b6ca7e28"
+    "mtime": 1781188336.8628623,
+    "ast_hash": "19fa5231f329740b353c77f1a9cf9b94",
+    "semantic_hash": "19fa5231f329740b353c77f1a9cf9b94"
   },
   "internal/aggregator/aggregator.go": {
     "mtime": 1780908528.8605309,
